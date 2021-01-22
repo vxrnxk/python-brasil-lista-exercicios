@@ -9,3 +9,4 @@ Exercícios de estrutura sequencial - [https://github.com/vxrnxk/python-brasil-e
 
 Exercícios de estrutura de decisão - [https://github.com/vxrnxk/python-brasil-exercicios-estrutura-de-decisao](https://github.com/vxrnxk/python-brasil-exercicios-estrutura-de-decisao)
 
+Exercícios de estrutura de repetição - [https://github.com/vxrnxk/python-brasil-exercicios-estrutura-de-repeticao](https://github.com/vxrnxk/python-brasil-exercicios-estrutura-de-repeticao)
